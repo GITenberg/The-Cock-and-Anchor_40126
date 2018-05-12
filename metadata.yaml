@@ -1,0 +1,40 @@
+_repo: The-Cock-and-Anchor_40126
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Le Fanu, Brinsley
+    alias: Fanu, Brinsley Le
+    birthdate: 1854
+    deathdate: 1929
+    gutenberg_agent_id: '7418'
+    url: http://www.gutenberg.org/2009/agents/7418
+covers:
+- cover_type: archival
+  image_path: 40126-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Le Fanu, Joseph Sheridan
+    aliases:
+    - Fanu, Joseph Sheridan Le
+    - Fanu, J. Sheridan Le
+    - LeFanu, J. S. (Joseph Sheridan)
+    birthdate: 1814
+    deathdate: 1873
+    gutenberg_agent_id: '272'
+    url: http://www.gutenberg.org/2009/agents/272
+    wikipedia: http://en.wikipedia.org/wiki/Sheridan_Le_Fanu
+description: ''
+gutenberg_issued: '2012-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Dublin (Ireland) -- Fiction'
+- !lcsh 'City and town life -- Fiction'
+title: The Cock and Anchor
+url: http://www.gutenberg.org/ebooks/40126
